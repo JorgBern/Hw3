@@ -2,7 +2,7 @@ import DoolittleMethod as dm
 import Gauss_Seidel as GS
 import random
 # ChatGPT was used to come up with thsi code
-# Jim Smay helped with coming up this code
+# Jim Smay helped with coming up this code by providing Doolittle and Gauss_seidel
 
 # Cholesky decomposition method for solving linear systems
 def Cholesky(Aaug):
